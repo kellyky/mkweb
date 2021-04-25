@@ -1,4 +1,4 @@
-# mkweb (Make-web)
+# mkweb 
 A file you can run from the command line to create the skeleton files/directories of a simple web project. 
 
 ## Description
